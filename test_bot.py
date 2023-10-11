@@ -25,7 +25,7 @@ def get_openai_response(prompt):
         max_tokens = 100,
         n = 1,
         stop = " END",
-        temperature = 0.5
+        temperature = 0.2
     )
     return response.choices[0].text.strip()
 
