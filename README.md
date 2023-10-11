@@ -1,2 +1,2 @@
-# Chat_bot
+# Chat_bot :dependabot:
 Experimental Chatbot
